@@ -2,9 +2,7 @@
   "name": "react-menus2",
   "description": "A carefully crafted menu widget for React",
   "version": "3.0.0",
-  "author": {
-    "name": "ZippyUI - Steve Lacy"
-  },
+  "author": "ZippyUI ~2016 | Steve Lacy ~2017",
   "bugs": {
     "url": "https://github.com/stevelacy/react-menus2/issues"
   },
